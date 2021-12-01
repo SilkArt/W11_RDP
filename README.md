@@ -12,7 +12,7 @@
 
 ### And paste the commands below:
 
-1. `wget -O run.sh https://raw.githubusercontent.com/lrpw11/W11_RDP/main/run.sh`
+1. `wget -O run.sh https://raw.githubusercontent.com/SilkArt/W11_RDP/main/run.sh`
 
 2. `chmod +x run.sh`
 
@@ -46,7 +46,7 @@ Github repo: https://github.com/fer1tx/W11_RDP/
 
 ### Ve aşağıdaki komutları yapıştırın:
 
-1. `wget -O run.sh https://raw.githubusercontent.com/lrpw11/W11_RDP/main/run.sh`
+1. `wget -O run.sh https://raw.githubusercontent.com/SilkArt/W11_RDP/main/run.sh`
 
 2. `chmod +x run.sh`
 
